@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33822'
     url: http://www.gutenberg.org/2009/agents/33822
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30303#The-Passing-of-Ku-Sui
 gutenberg_bookshelf:
 - Astounding Stories
 - Science Fiction
